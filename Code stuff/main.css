@@ -175,7 +175,7 @@
     background: #5966f380;
 }
 
-/*/* ---- Buttons ---- */
+/* ---- Buttons ---- */
 button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-button) {
     border-radius: var(10px) !important;
 }
@@ -188,7 +188,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover,
 .iconWrapper-3LVgIo[role="button"]:hover {
     background-color: #4a4c73 !important;
-}*/
+}
 
 /* ------------------------------------------------------------ 🌱 HOME ------------------------------------------------------------ */
 
@@ -751,21 +751,6 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 /* ---- Emotes Picker ---- */
 .sprite-2iCowe {
     filter: var(--colored-emoji) !important;
-}
-/*  Disabled Emotes */
-.emojiItem-14v6tW.emojiItemDisabled-1FvFuF {
-    pointer-events: none;
-    filter: none;
-    opacity: 0.3;
-}
-.emojiItem-14v6tW .imageLoading-bpSr0M {
-    display: none;
-}
-.unicodeShortcut-15J8Ck {
-    background-color: var(--background-secondary-alt);
-}
-.theme-dark .emptyHintCard-2mUdMe {
-    background-color: var(--background-primary);
 }
 
 /* ---- Icons and Buttons Colors ---- */
