@@ -175,7 +175,7 @@
     background: #5966f380;
 }
 
-/* ---- Buttons ---- */
+/*/* ---- Buttons ---- */
 button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-button) {
     border-radius: var(10px) !important;
 }
@@ -188,7 +188,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover,
 .iconWrapper-3LVgIo[role="button"]:hover {
     background-color: #4a4c73 !important;
-}
+}*/
 
 /* ------------------------------------------------------------ 🌱 HOME ------------------------------------------------------------ */
 
